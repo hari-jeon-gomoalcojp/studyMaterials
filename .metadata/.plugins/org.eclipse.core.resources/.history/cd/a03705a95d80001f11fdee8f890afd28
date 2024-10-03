@@ -1,0 +1,12 @@
+
+public class Product {
+   public String price;
+   
+   
+   public static void main(String[] args) {
+       Person person = new Person("Alice", 30, "123 Street, City");
+       person.printPersonInfo();
+       person.updateAge(31);
+       System.out.println("Updated Age: " + person.getAge());
+   }
+}

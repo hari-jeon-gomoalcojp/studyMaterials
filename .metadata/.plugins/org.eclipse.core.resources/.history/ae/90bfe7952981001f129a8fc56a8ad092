@@ -1,0 +1,8 @@
+// Ctrl + O
+public class QuickOutline {
+	private String name;
+	
+	public QuickOutline (String name) {
+		this.name = name;
+	}
+}

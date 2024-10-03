@@ -1,0 +1,43 @@
+public class Person {
+    private String name;
+    private int age;
+    private String address;  // 나중에 필드를 리팩토링할 예정
+
+    public Person(String name, int age, String address) {
+        this.name = name;
+        this.age = age;
+        this.address = address;
+    }
+
+    // 이름을 가져오는 메서드
+    public String getName() {
+        return name;
+    }
+
+    // 나이를 가져오는 메서드
+    public int getAge() {
+        return age;
+    }
+
+    // 주소를 가져오는 메서드
+    public String getAddress() {
+        return address;
+    }
+
+    // 나이를 업데이트하는 메서드 (리팩토링 대상)
+    public void updateAge(int age) {
+        this.age = age;
+    }
+
+    // 이름과 나이를 출력하는 메서드
+    public void printPersonInfo() {
+        System.out.println("Name: " + name + ", Age: " + age);
+    }
+    
+    public static void main(String[] args) {
+        Person person = new Person("Alice", 30, "123 Street, City");
+        person.printPersonInfo();
+        person.updateAge(31);
+        System.out.println("Updated Age: " + person.getAge());
+    }
+}

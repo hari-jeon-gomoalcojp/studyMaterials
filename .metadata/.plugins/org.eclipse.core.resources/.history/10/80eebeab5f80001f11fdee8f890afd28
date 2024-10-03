@@ -1,0 +1,8 @@
+
+public class Rename {
+    private String fullName;
+
+    public void printName() {
+        System.out.println(fullName);  // 여기서 Rename 기능으로 fullName을 다른 이름으로 변경할 수 있습니다.
+    }
+}

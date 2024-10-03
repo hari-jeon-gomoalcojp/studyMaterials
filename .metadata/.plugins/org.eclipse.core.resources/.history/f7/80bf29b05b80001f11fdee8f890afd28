@@ -1,0 +1,18 @@
+
+public class Calculator {
+   // inline function
+	public int add(int a, int b) {
+        return a + b;
+    }
+
+    public void calculate() {
+        int result = add(5, 10);  // 작은 메서드 호출
+        System.out.println("Result: " + result);
+    }
+    
+   // inline value
+    public void printFullName(String firstName, String lastName) {
+        String fullName = firstName + " " + lastName;  // 변수 사용
+        System.out.println("Full Name: " + fullName);
+    }
+}

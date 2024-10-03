@@ -1,0 +1,6 @@
+
+public class Inline {
+    public void greet() {
+        System.out.println("Hello, World!");  // <==
+    }
+}

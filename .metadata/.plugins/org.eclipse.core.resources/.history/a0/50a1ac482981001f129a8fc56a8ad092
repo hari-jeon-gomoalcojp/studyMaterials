@@ -1,0 +1,6 @@
+
+public class LastEditLocation {
+	public static void main(String[] args) {
+		System.out.println("Edit this line and test Last edit Location");
+	}
+}

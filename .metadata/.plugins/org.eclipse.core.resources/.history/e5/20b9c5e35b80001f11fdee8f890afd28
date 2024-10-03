@@ -1,0 +1,20 @@
+
+public class InlineExample {
+	// value
+    public void printFullName(String firstName, String lastName) {
+        String fullName = firstName + " " + lastName;  // 
+        System.out.println("Full Name: " + fullName);
+    }
+	
+   // function
+	public int add(int a, int b) {
+        return a + b;
+    }
+
+    public void calculate() {
+        int result = add(5, 10);  //
+        System.out.println("Result: " + result);
+    }
+    
+
+}

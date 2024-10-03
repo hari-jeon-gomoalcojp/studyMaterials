@@ -1,0 +1,11 @@
+
+public class ExtractMethod {
+    public void processNumbers() {
+        int result = add();
+        System.out.println("Result: " + result);
+    }
+
+	private int add() {
+		return 5 + 10;
+	}
+}

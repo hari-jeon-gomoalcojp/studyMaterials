@@ -1,0 +1,11 @@
+
+public class Product {
+   public String price;
+   public String name;
+   
+   
+   public static void main(String[] args) {
+	   Product product = new Product();
+	   
+   }
+}

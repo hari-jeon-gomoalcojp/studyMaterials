@@ -1,0 +1,40 @@
+public class Person {
+    private String name;
+    private int age;
+    private String address;  // 나중에 필드를 리팩토링할 예정
+
+    public Person(String name, int age, String address) {
+        this.name = name;
+        this.age = age;
+        this.address = address;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    // Rename(Alt + Shift + R) - 該当関数が書かれたすべての場所で名前が変更される
+    // SetAge(int age);
+    // Change Method Signature + add reason parameter
+    public void updateAge(int age) {
+        this.age = age;
+    }
+
+    public void printPersonInfo() {
+    	// Extract Local Variable
+        System.out.println("Name: " + name + ", Age: " + age); // info
+        // Extract Method
+        System.out.println("Hello!"); // sayHello();
+    }
+    
+    public static void main(String[] args) {
+        Person person = new Person("Alice", 30, "123 Street, City");
+        person.printPersonInfo();
+        person.updateAge(31);
+        System.out.println("Updated Age: " + person.getAge());
+    }
+}
