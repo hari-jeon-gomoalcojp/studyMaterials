@@ -24,7 +24,7 @@ public class LastEditLocation {
 				+ "Excepteur sint occaecat cupidatat non proident, "
 				+ "sunt in culpa qui officia deserunt mollit anim id est laborum.");
 		
-		System.out.println("Edit this line and test Last edit Location"); // <==
+		System.out.println("Edit this line and test Last edit Location");
 		
 		System.out.println(
 				"Lorem ipsum dolor sit amet, "
