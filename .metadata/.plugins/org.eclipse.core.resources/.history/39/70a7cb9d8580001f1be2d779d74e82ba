@@ -1,5 +1,0 @@
-public class ChangeMethodSignature {
-    public void displayMessage(String message, String add1) {
-        System.out.println(message);
-    }
-}

@@ -1,8 +1,0 @@
-
-public class OpenDeclaration {
-	public static void main(String[] args) {
-		printMessgae();
-	}
-	
-	public
-}
