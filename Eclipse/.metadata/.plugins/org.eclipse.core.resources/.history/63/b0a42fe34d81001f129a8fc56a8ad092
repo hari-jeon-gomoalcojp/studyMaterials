@@ -1,0 +1,10 @@
+public class ExtractMethod {
+    public void processNumbers() {
+        int result = 5 + 10; // <==
+        extracted(result);
+    }
+
+	private void extracted(int result) {
+		System.out.println("Result: " + result);
+	}
+}
