@@ -1,0 +1,5 @@
+public class ExtractLocalVariable {
+    public void printFullName(String firstName, String lastName) {
+        System.out.println(firstName + " " + lastName); // <==
+    }
+}
