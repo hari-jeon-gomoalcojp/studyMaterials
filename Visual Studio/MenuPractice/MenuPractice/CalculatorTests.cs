@@ -8,7 +8,7 @@ public class CalculatorTests
     {
         var calculator = new Calculator();
         var result = calculator.Add(5, 3);
-        Assert.Equal(5, result);
+        Assert.Equal(8, result);
     }
 
     [Fact]

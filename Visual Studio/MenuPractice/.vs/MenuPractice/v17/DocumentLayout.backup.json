@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\",
+  "WorkspaceRootPath": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\source\\repos\\menupractice\\menupractice\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\studymaterials\\visual studio\\menupractice\\menupractice\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|solutionrelative:menupractice\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\source\\repos\\menupractice\\menupractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|solutionrelative:menupractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\studymaterials\\visual studio\\menupractice\\menupractice\\menupractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|solutionrelative:menupractice\\menupractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\source\\repos\\menupractice\\menupractice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\studymaterials\\visual studio\\menupractice\\menupractice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|solutionrelative:menupractice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|c:\\users\\hari\\studymaterials\\visual studio\\menupractice\\menupractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1681AC-3ECC-411B-B517-8A47DEEA348F}|MenuPractice\\MenuPractice.csproj|solutionrelative:menupractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPractice",
+              "DocumentMoniker": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\MenuPractice.csproj",
+              "RelativeDocumentMoniker": "MenuPractice\\MenuPractice.csproj",
+              "ToolTip": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\MenuPractice.csproj",
+              "RelativeToolTip": "MenuPractice\\MenuPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T04:30:56.788Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CalculatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\MenuPractice\\CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\CalculatorTests.cs",
               "RelativeDocumentMoniker": "MenuPractice\\CalculatorTests.cs",
-              "ToolTip": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\MenuPractice\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\CalculatorTests.cs",
               "RelativeToolTip": "MenuPractice\\CalculatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T01:56:26.488Z",
               "EditorCaption": ""
@@ -41,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\MenuPractice\\Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\Calculator.cs",
               "RelativeDocumentMoniker": "MenuPractice\\Calculator.cs",
-              "ToolTip": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\MenuPractice\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\Calculator.cs",
               "RelativeToolTip": "MenuPractice\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,11 +69,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\MenuPractice\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\Program.cs",
               "RelativeDocumentMoniker": "MenuPractice\\Program.cs",
-              "ToolTip": "C:\\Users\\Hari\\source\\repos\\MenuPractice\\MenuPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Hari\\studyMaterials\\Visual Studio\\MenuPractice\\MenuPractice\\Program.cs",
               "RelativeToolTip": "MenuPractice\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
